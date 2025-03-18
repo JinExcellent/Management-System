@@ -181,3 +181,21 @@ Sun Mar 16 15:42:44 2025
 Sun Mar 16 15:42:51 2025
 :Show task table.
 
+Tue Mar 18 10:51:56 2025
+:Load successful:
+Tue Mar 18 10:52:26 2025
+:添加任务:ID3, 描述:jjksyyyis, 优先级:2, 截止日期:2025-9-1
+Tue Mar 18 10:52:26 2025
+:Save successful.
+
+Tue Mar 18 10:52:31 2025
+:Show task table.
+
+Tue Mar 18 10:52:53 2025
+:Delete task:ID2, 描述:ooooooo, 优先级:1, 截止日期:2025-6-11
+Tue Mar 18 10:52:53 2025
+:Save successful.
+
+Tue Mar 18 10:52:56 2025
+:Show task table.
+
